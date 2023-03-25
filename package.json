@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@types/command-line-args": "^5.2.0",
+    "@types/node": "^18.15.9",
+    "@types/string-similarity": "^4.0.0",
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "command-line-args": "^5.2.1",
+    "dotenv": "^16.0.3",
+    "jikanjs": "^0.7.0",
+    "pino": "^8.11.0",
+    "pino-pretty": "^10.0.0",
+    "string-similarity": "^4.0.4",
+    "winston": "^3.8.2"
+  }
+}
